@@ -2,6 +2,7 @@
 
 ## About me
 - 📖 I'm a Computer Science undergrad at BITS Pilani.
+- Remote intern at MARMoT Lab@NUS
 - ☎️ Currently learning Communication Learning for Multi Agent Pathfinding.
 - 🤖 Currently exploring Multi-Agent Reinforcement Learning.
 - 🤝 I'm looking to collaborate in Reinforcement Learning.
