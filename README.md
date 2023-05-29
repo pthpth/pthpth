@@ -5,7 +5,7 @@
 - :computer: Remote intern at MARMoT Lab@NUS
 - ☎️ Currently learning Communication Learning for Multi Agent Pathfinding.
 - 🤖 Currently exploring Multi-Agent Reinforcement Learning.
-- 🤝 I'm looking to collaborate in Reinforcement Learning.
+- 🤝 I'm looking to collaborate in Reinforcement Learning, Machine Learning and Computer Vision.
 - 📧 Contact me @ tulsyan.parth0206@gmail.com
 - 😄 Pronoun - he/him
 
